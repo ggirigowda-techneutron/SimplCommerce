@@ -5,6 +5,9 @@ using SimplCommerce.Module.Core.Areas.Core.ViewModels;
 
 namespace SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels
 {
+    /// <summary>
+    ///     Product Details.
+    /// </summary>
     public class ProductDetail
     {
         public long Id { get; set; }
