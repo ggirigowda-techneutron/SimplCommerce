@@ -8,8 +8,15 @@ using SimplCommerce.Module.Core.Extensions;
 
 namespace SimplCommerce.WebHost
 {
+    /// <summary>
+    ///     Represents the <see cref="Program"/> class.
+    /// </summary>
     public class Program
     {
+        /// <summary>
+        ///     Main entry point for the application.
+        /// </summary>
+        /// <param name="args"></param>
         public static void Main(string[] args)
         {
             try
